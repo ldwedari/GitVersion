@@ -8,7 +8,7 @@ RedirectFrom: docs/reference/versioning-modes/manual-deployment
 ---
 
 Having not the necessity to deploy the build artifacts on every commit is an
-indecation of using the __Manual Deployment__ mode. This mode can be used to
+indication of using the __Manual Deployment__ mode. This mode can be used to
 remain on the same pre-released version until it has been deployed dedicatedly.
 
 ## How Manual Deployment affects GitVersion
